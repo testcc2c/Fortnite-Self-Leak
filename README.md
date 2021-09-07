@@ -3,7 +3,11 @@
 `I'm aware it's nuclear lmao, I used it as a base. I won't sell original source because It's a "paste" but if you're interested in the exploits message me :)`
  
 
-- Micca#1337
+Credits:
+
+- Micca#1337 (Exploits)
+- Butterfinger#1337 (Menu)
+- Harvey (Base)
 
 
 ```yaml
